@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <p class="logo">E-school</p>
+        <p>Klasslar</p>
+        <p>Mugalim</p>
+        <p>Panler</p>
+        <p>Biz haqimizda</p>
+        <hr>
+        <h1>Bizin zamanagoy mektebimizge xoʻsh
+        keldiniz!
+       
+        </h1>
+        <img src="src.jpg" alt="cat">
+    </body>
+</html>
